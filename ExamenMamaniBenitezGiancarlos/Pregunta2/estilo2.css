@@ -1,0 +1,55 @@
+.menu{
+    display: flex;
+    flex-wrap: nowrap;
+    padding-top: 10px;
+    list-style-type: none;
+    margin-right: 1rem;
+   padding-bottom: 20px;
+   margin-bottom: 0px;
+   white-space: nowrap;
+}
+.caja{
+    max-width: 1000px;
+    margin-left :10px;
+    margin-right: 10px;
+}
+aside{
+    background-image: url("01.jpg");
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 400px;
+    max-width: 400px;
+    padding-right: 200px;
+    margin-right: 600px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    
+}
+h4{
+    padding-top: 300px;
+    font-size: medium;
+}
+h2{
+    font-size: small;
+}
+section{
+    background-image: url("02.jpg");
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 300px;
+    max-width: 400px;
+    margin-left:0px;
+    
+}
+.titulo2{
+    font-size:medium;
+    padding-top: 200px;
+    
+}
+article{
+    background-image: url("03.jpg");
+    background-repeat:no-repeat;
+    width: 200px;
+    height: 200px;
+    padding-top: 200px;
+}

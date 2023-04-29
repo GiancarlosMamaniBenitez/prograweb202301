@@ -1,0 +1,38 @@
+.caja1{
+    margin:auto;
+    max-width: 1000px;
+    width: 100px;
+    height: 0px;
+    text-align: center;
+    margin-left: 400px;
+}
+h1{
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    block-size: 400PX;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.caja2{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+p{
+    float:right;
+}
+.texto{
+    float:center;
+}
+div{
+    margin-left: 400px;
+    margin-right: 800px;
+}
+header{
+    block-size: auto;
+    margin-left:400px;
+    margin-left:400px;
+    margin-bottom: 200px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
